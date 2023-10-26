@@ -1,0 +1,60 @@
+C:\Users\Admin\Downloads\khotailieu.com_XX214723\BTL_HCG_Nhom8\BTL_HCG_Nhom8\obj\Debug\BTL_HCG_Nhom8.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\khotailieu.com_XX214723\BTL_HCG_Nhom8\BTL_HCG_Nhom8\obj\Debug\BTL_HCG_Nhom8.Form1.resources
+C:\Users\Admin\Downloads\khotailieu.com_XX214723\BTL_HCG_Nhom8\BTL_HCG_Nhom8\obj\Debug\BTL_HCG_Nhom8.Form2.resources
+C:\Users\Admin\Downloads\khotailieu.com_XX214723\BTL_HCG_Nhom8\BTL_HCG_Nhom8\obj\Debug\BTL_HCG_Nhom8.Form3.resources
+C:\Users\Admin\Downloads\khotailieu.com_XX214723\BTL_HCG_Nhom8\BTL_HCG_Nhom8\obj\Debug\BTL_HCG_Nhom8.Form4.resources
+C:\Users\Admin\Downloads\khotailieu.com_XX214723\BTL_HCG_Nhom8\BTL_HCG_Nhom8\obj\Debug\BTL_HCG_Nhom8.csproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\khotailieu.com_XX214723\BTL_HCG_Nhom8\BTL_HCG_Nhom8\bin\Debug\Đồ_ÁN.exe.config
+C:\Users\Admin\Downloads\khotailieu.com_XX214723\BTL_HCG_Nhom8\BTL_HCG_Nhom8\bin\Debug\Đồ_Án.exe
+C:\Users\Admin\Downloads\khotailieu.com_XX214723\BTL_HCG_Nhom8\BTL_HCG_Nhom8\bin\Debug\Đồ_Án.pdb
+C:\Users\Admin\Downloads\khotailieu.com_XX214723\BTL_HCG_Nhom8\BTL_HCG_Nhom8\obj\Debug\Đồ_Án.Properties.Resources.resources
+C:\Users\Admin\Downloads\khotailieu.com_XX214723\BTL_HCG_Nhom8\BTL_HCG_Nhom8\obj\Debug\Đồ_Án.exe
+C:\Users\Admin\Downloads\khotailieu.com_XX214723\BTL_HCG_Nhom8\BTL_HCG_Nhom8\obj\Debug\Đồ_Án.pdb
+D:\btap dreamweaver\BTL_HCG_Nhom8\BTL_HCG_Nhom8\bin\Debug\Đồ_Án.exe.config
+D:\btap dreamweaver\BTL_HCG_Nhom8\BTL_HCG_Nhom8\obj\Debug\Đồ_Án.exe
+D:\btap dreamweaver\BTL_HCG_Nhom8\BTL_HCG_Nhom8\obj\Debug\Đồ_Án.pdb
+D:\btap dreamweaver\BTL_HCG_Nhom8\BTL_HCG_Nhom8\bin\Debug\Đồ_Án.exe
+D:\btap dreamweaver\BTL_HCG_Nhom8\BTL_HCG_Nhom8\bin\Debug\Đồ_Án.pdb
+D:\btap dreamweaver\BTL_HCG_Nhom8\BTL_HCG_Nhom8\obj\Debug\BTL_HCG_Nhom8.csprojResolveAssemblyReference.cache
+D:\btap dreamweaver\BTL_HCG_Nhom8\BTL_HCG_Nhom8\obj\Debug\BTL_HCG_Nhom8.Form1.resources
+D:\btap dreamweaver\BTL_HCG_Nhom8\BTL_HCG_Nhom8\obj\Debug\BTL_HCG_Nhom8.Form2.resources
+D:\btap dreamweaver\BTL_HCG_Nhom8\BTL_HCG_Nhom8\obj\Debug\BTL_HCG_Nhom8.Form3.resources
+D:\btap dreamweaver\BTL_HCG_Nhom8\BTL_HCG_Nhom8\obj\Debug\BTL_HCG_Nhom8.Form4.resources
+D:\btap dreamweaver\BTL_HCG_Nhom8\BTL_HCG_Nhom8\obj\Debug\Đồ_Án.Properties.Resources.resources
+D:\btap dreamweaver\BTL_HCG_Nhom8\BTL_HCG_Nhom8\obj\Debug\BTL_HCG_Nhom8.csproj.GenerateResource.Cache
+D:\btap dreamweaver\baitap\bin\Debug\Đồ_Án.exe.config
+D:\btap dreamweaver\baitap\obj\Debug\Đồ_Án.exe
+D:\btap dreamweaver\baitap\obj\Debug\Đồ_Án.pdb
+D:\btap dreamweaver\baitap\bin\Debug\Đồ_Án.exe
+D:\btap dreamweaver\baitap\bin\Debug\Đồ_Án.pdb
+D:\btap dreamweaver\baitap\obj\Debug\BTL_HCG_Nhom8.csprojResolveAssemblyReference.cache
+D:\btap dreamweaver\baitap\obj\Debug\BTL_HCG_Nhom8.Form1.resources
+D:\btap dreamweaver\baitap\obj\Debug\BTL_HCG_Nhom8.Form2.resources
+D:\btap dreamweaver\baitap\obj\Debug\BTL_HCG_Nhom8.Form3.resources
+D:\btap dreamweaver\baitap\obj\Debug\BTL_HCG_Nhom8.Form4.resources
+D:\btap dreamweaver\baitap\obj\Debug\Đồ_Án.Properties.Resources.resources
+D:\btap dreamweaver\baitap\obj\Debug\BTL_HCG_Nhom8.csproj.GenerateResource.Cache
+D:\hệ chuyên gia\baitap\bin\Debug\Đồ_Án.exe.config
+D:\hệ chuyên gia\baitap\obj\Debug\Đồ_Án.exe
+D:\hệ chuyên gia\baitap\obj\Debug\Đồ_Án.pdb
+D:\hệ chuyên gia\baitap\bin\Debug\Đồ_Án.exe
+D:\hệ chuyên gia\baitap\bin\Debug\Đồ_Án.pdb
+D:\hệ chuyên gia\baitap\obj\Debug\BTL_HCG_Nhom8.csprojResolveAssemblyReference.cache
+D:\hệ chuyên gia\baitap\obj\Debug\BTL_HCG_Nhom8.Form1.resources
+D:\hệ chuyên gia\baitap\obj\Debug\BTL_HCG_Nhom8.Form2.resources
+D:\hệ chuyên gia\baitap\obj\Debug\BTL_HCG_Nhom8.Form3.resources
+D:\hệ chuyên gia\baitap\obj\Debug\BTL_HCG_Nhom8.Form4.resources
+D:\hệ chuyên gia\baitap\obj\Debug\Đồ_Án.Properties.Resources.resources
+D:\hệ chuyên gia\baitap\obj\Debug\BTL_HCG_Nhom8.csproj.GenerateResource.Cache
+Q:\hệ chuyên gia\baitap\bin\Debug\Đồ_Án.exe.config
+Q:\hệ chuyên gia\baitap\obj\Debug\Đồ_Án.exe
+Q:\hệ chuyên gia\baitap\obj\Debug\Đồ_Án.pdb
+Q:\hệ chuyên gia\baitap\bin\Debug\Đồ_Án.exe
+Q:\hệ chuyên gia\baitap\bin\Debug\Đồ_Án.pdb
+Q:\hệ chuyên gia\baitap\obj\Debug\BTL_HCG_Nhom8.csprojResolveAssemblyReference.cache
+Q:\hệ chuyên gia\baitap\obj\Debug\BTL_HCG_Nhom8.Form1.resources
+Q:\hệ chuyên gia\baitap\obj\Debug\BTL_HCG_Nhom8.Form2.resources
+Q:\hệ chuyên gia\baitap\obj\Debug\BTL_HCG_Nhom8.Form3.resources
+Q:\hệ chuyên gia\baitap\obj\Debug\BTL_HCG_Nhom8.Form4.resources
+Q:\hệ chuyên gia\baitap\obj\Debug\Đồ_Án.Properties.Resources.resources
+Q:\hệ chuyên gia\baitap\obj\Debug\BTL_HCG_Nhom8.csproj.GenerateResource.Cache
